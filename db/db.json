@@ -1,0 +1,45 @@
+{
+  "login": [
+    {
+      "name": "aaquib",
+      "password": "aa@123"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Noida",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "name": "McDonald",
+      "email": "mcdonald@test.com",
+      "rating": "4.7",
+      "address": "North Delhi",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Dominos",
+      "address": "South Delhi",
+      "rating": "4.5",
+      "email": "dominos@test.com"
+    },
+    {
+      "id": 5,
+      "name": "Haldiram",
+      "address": "Gurgram",
+      "rating": "4.4",
+      "email": "haldiram@test.com"
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "rating": "4.7",
+      "address": "Noida",
+      "id": 6
+    }
+  ]
+}
